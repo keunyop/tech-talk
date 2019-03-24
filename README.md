@@ -10,3 +10,4 @@ Tech Talk Topics
 * 클라우드 투자
   > - <https://platum.kr/archives/108407>
   > - <https://cloud.hosting.kr/press_190304_megazonecloud/>
+* [Sheety - Google Sheet API](https://sheety.co/)
