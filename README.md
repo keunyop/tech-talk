@@ -11,3 +11,4 @@ Tech Talk Topics
   > - <https://platum.kr/archives/108407>
   > - <https://cloud.hosting.kr/press_190304_megazonecloud/>
 * [Sheety - Google Sheet API](https://sheety.co/)
+* [Apple Card](https://www.apple.com/apple-card/)
