@@ -16,3 +16,4 @@ Tech Talk Topics
 * [데이터로 보는 디자인씽킹, 무엇이 다를까](http://www.bloter.net/archives/334381)
 * [스프링캠프2019 - 컨퍼런스](https://www.springcamp.io/2019/)
 * [Tailor Brands - 로고](https://www.tailorbrands.com/)
+* [MIRO - Team collaboration](https://realtimeboard.com/)
