@@ -18,3 +18,4 @@ Tech Talk Topics
 * [Tailor Brands - 로고](https://www.tailorbrands.com/)
 * [MIRO - Team collaboration](https://realtimeboard.com/)
 * [Something on Mars Is Producing Gas Usually Made by Living Things on Earth](https://www.nytimes.com/2019/04/01/science/mars-methane-gas.html)
+* [Amazon Aircraft](https://twitter.com/zozi009/status/1112369039978827776)
