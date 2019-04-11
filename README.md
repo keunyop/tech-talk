@@ -19,3 +19,4 @@ Tech Talk Topics
 * [MIRO - Team collaboration](https://realtimeboard.com/)
 * [Something on Mars Is Producing Gas Usually Made by Living Things on Earth](https://www.nytimes.com/2019/04/01/science/mars-methane-gas.html)
 * [Amazon Aircraft](https://twitter.com/zozi009/status/1112369039978827776)
+* [세계서 가장 깊은 수영장(50m)](https://edition.cnn.com/travel/article/worlds-deepest-pool-scli-intl/index.html)
