@@ -27,6 +27,7 @@ Tech Talk Topics
 * 5월 컨퍼런스
   > - [엘라스틱서치로 한글검색시스템 구축하기 with Azure](https://javacafe-seminar.github.io/?fbclid=IwAR1QOk_dMXRvhaPewcFxJ9g5--IviSssmX4ROlY9R7KkMgZT7R8YLEKAwIc)
   > - [Google I/O Viewing Party 2019](https://io-extended-android-19.firebaseapp.com/)
+  > - 자바, 성능 그리고 모니터링 이야기(5월 9일 목요일 오후6시 30분 - 9시 30분)
 ---
 * [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
 * [1Password](https://1password.com/ko/)
