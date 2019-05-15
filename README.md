@@ -32,3 +32,4 @@ Tech Talk Topics
 * [자바에서 null을 안전하게 다루는 방법](https://www.slideshare.net/gyumee/null-142590829)
 * [1Password](https://1password.com/ko/)
 * [SRE - #1 SRE/DEVOPS의 개념과 SRE는 무엇을하는가?](https://bcho.tistory.com/1325)
+* [Kotlin을 쓰는 이유](https://cnwlcjf.tistory.com/2)
