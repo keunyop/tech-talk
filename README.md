@@ -33,3 +33,4 @@ Tech Talk Topics
 * [1Password](https://1password.com/ko/)
 * [SRE - #1 SRE/DEVOPS의 개념과 SRE는 무엇을하는가?](https://bcho.tistory.com/1325)
 * [Kotlin을 쓰는 이유](https://cnwlcjf.tistory.com/2)
+* [Notion, 4세대 Notes](https://www.notion.so/)
