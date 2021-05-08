@@ -1,4 +1,4 @@
-# tech-talk
+# Tech Talk
 Tech Talk Topics
 
 * [Firefox Send](https://send.firefox.com/)
@@ -11,7 +11,7 @@ Tech Talk Topics
   > - <https://platum.kr/archives/108407>
   > - <https://cloud.hosting.kr/press_190304_megazonecloud/>
 * [Sheety - Google Sheet API](https://sheety.co/)
-* Payment사의 카드 진출
+* Payment 사의 카드 진출
   > - [Apple Card](https://www.apple.com/apple-card/)
   > - [Toss Card](https://blog.toss.im/2019/04/04/newsroom/press-release/toss-card/)
 * [SI 개발자, 불나방이 되거나 자토이치가 되거나](http://blog.hwang.gg/20190327/?fbclid=IwAR3D5pT96m1Bk4GEDJvUCpgaAT0moSM-eDoN361iEz8GKGMQRdB6hKzLEJM)
